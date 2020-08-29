@@ -1,0 +1,11 @@
+package Simple.Simple;
+
+public class One {
+
+	public static void main(String[] args) 
+	{
+		System.out.println("One");
+
+	}
+
+}
